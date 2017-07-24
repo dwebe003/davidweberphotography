@@ -25,7 +25,7 @@ SECRET_KEY = 'x$w-qf1p5yc1n%w8-saosu=&a0bmy1()$yz=2%k8esuck1)y9u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['davidweberphotography.net']
+ALLOWED_HOSTS = ['localhost']
 
 
 # Application definition
